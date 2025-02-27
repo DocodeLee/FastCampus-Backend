@@ -1,4 +1,4 @@
-# FastCampus-Backend
+# FastCampus-Backend-precourse
 
 ## 개발환경 세팅
 원래는 src 파일에서 실행하면 out으로 생성되는데 터미널로도 생성이 가능핳다
@@ -12,3 +12,6 @@ java .. out 폴더에서 : 실행 > 클래스
 실행 : 바이트코드로 된거 실행
 
 ![image](https://github.com/user-attachments/assets/13f0b268-87d1-4b1d-b9e1-a87558a1239b)
+
+# JVM
+java file 이 javac.exe에 의해서 컴파일 중간어 코드가 된다. 이는 OS 독립적으로 되고 java.exe 가 다시 호출 (RemoteProcessCall)
