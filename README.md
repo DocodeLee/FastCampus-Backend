@@ -15,3 +15,7 @@ java .. out 폴더에서 : 실행 > 클래스
 
 # JVM
 java file 이 javac.exe에 의해서 컴파일 중간어 코드가 된다. 이는 OS 독립적으로 되고 java.exe 가 다시 호출 (RemoteProcessCall)
+
+# Variable & Datatype
+
+Data T
