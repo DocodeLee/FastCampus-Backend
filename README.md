@@ -116,3 +116,12 @@ DAO : Data Access Object
 It is useful when we transfer the object datas
 
 # DAO : CRUD activity with database
+
+# Access
+### In same Package : Public and Default
+### in different Pacakge : Only Public
+
+## How can we access to private data
+
+Need to use Getter Setter methods
+
