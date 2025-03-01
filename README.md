@@ -33,4 +33,72 @@ User Define Data type is made by class
 # Symbol Table
 ## When Variable is maded it is managed in table > similar with HashMap
 
-Key is  Variable name and Value is saved Hexadecimal  
+Key is  Variable name and Value is saved Hexadecimal
+
+
+# Data type
+Primitive and User Declaration
+
+### Casting : change Datatype
+
+## String is also treated as Object 
+
+Compiler find the datatype from the API
+
+String is maded but it is use usallys so is set as default > java.lang.String
+
+## Casting
+change Datatype
+
+(int)'A' = 65 
+
+(char) 65 = 'A'
+
+(int) 2.6f = 2
+
+(float) 10 = 10.0f
+
+# Object & Class
+containing several variables
+
+Object = obj >> this is just instance  > need to set this to new Object
+
+## Object obj = new Object();
+
+obj . : "." is dot cacuclator
+
+# Arrays
+초기화 : 선언 + 저장
+
+int [] a = new int[length];
+
+char [] c = new char[length];
+
+int [] a = new int[]{elements};
+
+also arrays can adapt to object
+
+### 2-demension arrays
+int[][] a = new int[row][col];
+
+# Ternery Operator
+(statement)? A:B  (true) : false
+
+# Method
+Object function 
+
+data ineteract with methods.
+
+method return the value with the method name > it treats as value
+
+# Static Binding
+
+use same method with different data type then when compiling compiler search method > static binding
+
+If you use different method name it is not binding
+
+# Dynamic Binding
+
+Use @Overrid > and call the method when it needs.
+
+but it takes more memory and takes more time
