@@ -59,7 +59,9 @@ change Datatype
 (float) 10 = 10.0f
 
 # Object & Class
-containing several variables
+containing several variables,
+
+Objects have Default Constructor
 
 Object = obj >> this is just instance  > need to set this to new Object
 
@@ -102,3 +104,15 @@ If you use different method name it is not binding
 Use @Overrid > and call the method when it needs.
 
 but it takes more memory and takes more time
+
+# DTO : Data Transfer Object
+
+# Object Oriented Programming
+
+DTO : Data Transfer Object, VO : Virtula Object
+
+DAO : Data Access Object
+
+It is useful when we transfer the object datas
+
+# DAO : CRUD activity with database
