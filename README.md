@@ -125,3 +125,18 @@ It is useful when we transfer the object datas
 
 Need to use Getter Setter methods
 
+# Arrays and Class
+Array save same dataType
+
+Class saves different dataTypes
+
+## Object Arrays : Object[] obj = new Object[length];
+
+# Static and Non Static
+
+## If we use Static > we can utilize method with out declaration
+
+## If we made method without static > we need to declare object and call the method
+
+If we made constructor with private > we cannot not make object
+
