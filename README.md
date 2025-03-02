@@ -1,4 +1,4 @@
-e# FastCampus-Backend-precourse
+# FastCampus-Backend-precourse
 
 ## 개발환경 세팅
 원래는 src 파일에서 실행하면 out으로 생성되는데 터미널로도 생성이 가능핳다
@@ -140,3 +140,34 @@ Class saves different dataTypes
 
 If we made constructor with private > we cannot not make object
 
+# Memory area in JVM
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/79199327-c9c9-43e1-a01f-6798aaa87cee" />
+
+Instances are mad in Heap Area
+
+＃Inheritance
+make it simple with duplicate values
+
+## public class Childeren extends ParentsClass >> constructor use super();
+
+value declare by protected type > allows access from children class
+> need to in same package
+
+
+# Upcasting : using parent class for declarations
+
+# Downcasting : change type to children type > Children obj = (children) obj >>obj is already declared as parents Class
+
+# Ovverride & Dynaminc Binding > judge for children or parents after compiling
+
+# 정보은닉, 상속, 다형성, > information hiding, inheritance, polymorphism
+
+# Overloading : same method but different parameter > if use parents it will be simple
+
+# polymorphism Arrays : make with Parents type and can save child types
+
+# Abstract class cannot declare itself > only works as parents class
+
+# interface only made with abstract method > help polymorphism 
+
+# Java only get single inheritance > but using interface get support about multiple inheritance
