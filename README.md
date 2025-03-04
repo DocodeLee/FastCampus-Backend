@@ -1,4 +1,4 @@
-# FastCampus-Backend-precourse
+# Backend-precourse
 
 ## 개발환경 세팅
 원래는 src 파일에서 실행하면 out으로 생성되는데 터미널로도 생성이 가능핳다
